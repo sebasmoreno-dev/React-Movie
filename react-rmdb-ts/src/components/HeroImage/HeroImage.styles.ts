@@ -1,9 +1,12 @@
 import styled from 'styled-components';
-
+//Type
+type Props = {
+  image: string;
+}
 //1. se coloca como priroidad el linear gradient.
 //2. el linear gradient va dentro de background-image
 //3. Despues la variable yfinalmente la url con la imagen
-export const Wrapper = styled.div`
+export const Wrapper = styled.div<Props>`
   background-image:
     linear-gradient(
       to bottom,

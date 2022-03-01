@@ -1,7 +1,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 //Component
-import Thumb from '../../Thumb';
+import Thumb from '../Thumb';
 //Config
 import { IMAGE_BASE_URL, POSTER_SIZE } from './../../config';
 //image

@@ -5,7 +5,7 @@ import { Image } from './Thum.styles';
 //Types
 type Props = {
   image: string;
-  movieId: number;
+  movieId?: number;
   clickable: boolean;
 }
 

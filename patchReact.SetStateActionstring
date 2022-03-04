@@ -1,0 +1,72 @@
+[33mcommit 3110a1083f588c929d286637e042d419195ef013[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Sebastian Moreno <sebastian.moreno.contacto@gmail.com>
+Date:   Tue Mar 1 13:07:47 2022 -0500
+
+    Removing code/files🔥 :fire: Typescript - Refactor base files
+
+[33mcommit a86cf860af2965d16793543c6688ff7510a4ab47[m
+Author: Sebastian Moreno <sebastian.moreno.contacto@gmail.com>
+Date:   Mon Feb 28 13:04:43 2022 -0500
+
+    Refactor code🔨 :hammer: changed two modules, home.js and movie.js to class components
+
+[33mcommit d76c4dc4630f6a05a8074d521d3343e8ee1c3bb1[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: Sebastian Moreno <sebastian.moreno.contacto@gmail.com>
+Date:   Mon Feb 21 16:39:51 2022 -0500
+
+    Bugfix🐛 :bug:
+
+[33mcommit 93d4df94da16ff8312c265a8cd9eacc48a8e6f5a[m
+Merge: 73f6bb1 bb203e4
+Author: Sebastian Moreno <sebastian.moreno.contacto@gmail.com>
+Date:   Mon Feb 21 16:16:44 2022 -0500
+
+    Merge branch 'main' of github.com:sebasmoreno-dev/React-Movie
+
+[33mcommit bb203e46087ef19fa6184daabdad6371f98ee855[m
+Author: Sebastian Moreno Olivera <78860539+sebasmoreno-dev@users.noreply.github.com>
+Date:   Mon Feb 21 16:14:24 2022 -0500
+
+    Initial commit
+
+[33mcommit 73f6bb1fe5566f3c78a2ca3d10af9265675822c4[m
+Author: Sebastian Moreno <sebastian.moreno.contacto@gmail.com>
+Date:   Mon Feb 21 15:40:44 2022 -0500
+
+    New feature✨ :sparkles: add the  session storage and finish the project
+
+[33mcommit 7d1e260a78a2fb0d8ad91871fdbc8f8fe7ee600a[m
+Author: Sebastian Moreno <sebastian.moreno.contacto@gmail.com>
+Date:   Fri Feb 18 18:58:41 2022 -0500
+
+    Improve format/structure: 🎨 :art: The project's structure is improved
+
+[33mcommit 5baccab97845dab3a39642508cfa2caf91c35a95[m
+Author: Sebastian Moreno <sebastian.moreno.contacto@gmail.com>
+Date:   Thu Feb 3 19:34:24 2022 -0500
+
+    Continuous Integration 💚 :green_heart: Added BreadCrumb Component, MovieInfo Component, MovieInfoBar Component and his styles
+
+[33mcommit 12665652f10897edec11d17691783a786fe9178a[m
+Author: Sebastian Moreno <sebastian.moreno.contacto@gmail.com>
+Date:   Thu Feb 3 11:46:17 2022 -0500
+
+    New feature: Functionallity of searchBar and LoadMore Movies    ✨ :sparkles:
+
+[33mcommit 2392b45577aeaee9df91c5b95f2ce031a0c195d9[m
+Author: Sebastian Moreno <sebastian.moreno.contacto@gmail.com>
+Date:   Wed Feb 2 22:14:14 2022 -0500
+
+    New feature: add searchBar and thumb    ✨ :sparkles:
+
+[33mcommit bf9f6c8c118137563b6a3d360931ef1003d7055d[m
+Author: Sebastian Moreno <sebastian.moreno.contacto@gmail.com>
+Date:   Tue Feb 1 20:46:07 2022 -0500
+
+    Work in progress 🚧 :construction:
+
+[33mcommit 115865e14d241984a88308189e9211d08430be9c[m
+Author: Sebastian Moreno <sebastian.moreno.contacto@gmail.com>
+Date:   Tue Feb 1 11:43:07 2022 -0500
+
+    Initialize project using Create React App
